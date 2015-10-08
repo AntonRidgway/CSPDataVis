@@ -1,6 +1,6 @@
 # CSPDataVis
 
-A Python/Java project to visualize the progress and results of DCSP algorithms. It utilizes VTK for visualization.
+A Python/Java project which leverages VTK to visualize the progress and results of DCSP algorithms. Programmed in 2014 for the Scientific and Information Visualization course (CS-6863-01) at the University of Tulsa.
 
 Traces from individual solution runs are included with the project, as well as the Java code written to convert them to either OBJ or CSV data suitable for use in VTK. Transformed data is also included, with Python code used to visualize either the progress of the algorithms as an animation, or the final result as a fixed 3D mesh. Finally, the original report and presentation slides for the project are included, which provide additional documentation and example output images.
 
